@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
 	"description": "A project that does something awesome",
-	"licence": "MIT",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
