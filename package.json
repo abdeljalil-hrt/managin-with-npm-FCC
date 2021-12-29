@@ -1,12 +1,16 @@
 {
-	"author": "abdeljlail",
 	"name": "fcc-learn-npm-package-json",
+	"author": "foobar",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
+	},
+	"engines": {
+		"node": "14.17.6"
 	},
 	"repository": {
 		"type": "git",
