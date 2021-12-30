@@ -18,9 +18,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"dependencies ": {
-		"package-name": "version",
-		"moment": "2.14.0"
+	"dependencies": {
+		"express": "^4.16.4",
+		"helmet": "^3.14.0"
 	},
 	"keywords": [
 		"descriptive",
